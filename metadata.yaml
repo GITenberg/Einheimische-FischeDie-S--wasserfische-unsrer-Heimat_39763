@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40213
     wikipedia: http://de.wikipedia.org/wiki/Kurt_Floericke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39763#Einheimische-FischeDie-S--wasserfische-unsrer-Heimat
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2012-05-22'
 gutenberg_type: Text
