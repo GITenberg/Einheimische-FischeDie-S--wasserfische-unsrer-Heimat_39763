@@ -1,0 +1,34 @@
+_repo: Einheimische-FischeDie-S--wasserfische-unsrer-Heimat_39763
+_version: 0.1.0
+alternative_title: Einheimische Fische; Die Süsswasserfische unsrer Heimat
+covers:
+- cover_type: archival
+  image_path: 39763-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Floericke, Kurt
+    aliases:
+    - Floericke, K. (Kurt)
+    - Floericke, Kurt Ehrenreich
+    - Floericke, Curt
+    birthdate: 1869
+    deathdate: 1934
+    gutenberg_agent_id: '40213'
+    url: http://www.gutenberg.org/2009/agents/40213
+    wikipedia: http://de.wikipedia.org/wiki/Kurt_Floericke
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2012-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39763'
+  lccn: '14006071'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Fishes -- Germany'
+title: Einheimische Fische; Die Süßwasserfische unsrer Heimat
+url: http://www.gutenberg.org/ebooks/39763
